@@ -1,0 +1,9 @@
+# Local audio recordings and Audacity projects
+*.wav
+*.aup3
+*.aup3-*
+
+# Python and editor artifacts
+__pycache__/
+*.py[cod]
+nvim.log
